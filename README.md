@@ -149,7 +149,6 @@ AI should support GreenThreads HR with organization, reporting, and follow-up tr
 * GitHub for documentation
 * Jupyter/Google Colab notebook included in this repository
 
-## Sharing Note
 
-The Custom GPT was created inside the Campus Students ChatGPT workspace. The workspace administrator currently disables public GPT sharing. The assistant can still be built and tested inside the workspace, while this public GitHub repository documents the assistant's setup, instructions, knowledge sources, testing, and results.
+
 
