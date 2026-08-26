@@ -5,6 +5,8 @@
 The GreenThreads Hiring Assistant is a Custom GPT created to support the GreenThreads Human Resources team with the Denver hiring pipeline. It helps HR summarize applicant data, identify hiring bottlenecks, flag follow-up needs, review offer concerns, and prepare hiring-status summaries.
 
 The assistant is designed to support HR work, not replace human hiring decisions.
+Link to the AI Assistant 
+https://chatgpt.com/g/g-6a85bd745b808191bcb45c32d3cd9d68-greenthreads-hiring-assistant 
 
 ## Persona
 
