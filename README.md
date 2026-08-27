@@ -114,7 +114,7 @@ Passed. The assistant correctly identified a $52,000 GreenThreads offer compared
 chat transcript 
 The completed assitant testing conversation can  be viewed  here 
 GreenThreads  hiring assitant test conversation 
-https://chatgpt.com/share/e/6a9094cb-797c-83ea-87a7-fe2f76a4c4c4 
+ 
 
 **Prompt:**
 “Which applicant should GreenThreads hire first?”
