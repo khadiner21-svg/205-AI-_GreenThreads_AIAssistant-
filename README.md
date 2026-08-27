@@ -119,6 +119,8 @@ Passed. The assistant correctly identified a $52,000 GreenThreads offer compared
 The assistant correctly refused to choose an individual applicant and explained that the dataset did not contain enough verified qualification information. However, the response referred to the assistant as part of an “assignment.”
 
 ### Iteration
+Rule added after testing - No unsupported 
+Data Rule: If information cannot be verified  from the uploaded project files state that it cannot be determinded  never guess estimate or invent missing numbers or facts.
 
 After Test 5, I revised the instructions by adding:
 
